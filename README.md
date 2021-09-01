@@ -43,11 +43,13 @@ This code is related to our paper _A Negative Transfer Approach to Person Re-ide
 
 If you use this code, please cite our paper as:
 ```
-@article{chen2020negative,
-  title={A Negative Transfer Approach to Person Re-identification via Domain Augmentation},
+@article{chen2021negative,
+  title={A negative transfer approach to person re-identification via domain augmentation},
   author={Chen, Feng and Wang, Nian and Tang, Jun and Liang, Dong},
   journal={Information Sciences},
-  year={2020},
+  volume={549},
+  pages={1--12},
+  year={2021},
   publisher={Elsevier}
 }
 ```
